@@ -1,12 +1,16 @@
-<img src="logo.svg" alt="Logo de Kachingga" width="72" height="72">
+<p align="center">
+  <img src="logo.svg" alt="Logo de Kachingga" width="96" height="96">
+</p>
 
-# Kachingga 💸
+<h1 align="center">Kachingga</h1>
 
 Somos un grupo de amigos de Argentina armando **la app para dividir gastos que queríamos usar**: viajes, el depto compartido, el asado del sábado.
 
 Cargás quién pagó qué y la app calcula cuánto debe cada uno y cómo quedar a mano con **la menor cantidad de transferencias**.
 
-**[kachingga.com](https://kachingga.com)** · [Entrar a la app](https://app.kachingga.com) · [Privacidad](https://kachingga.com/privacidad) · [hola@kachingga.com](mailto:hola@kachingga.com)
+<p align="center">
+  <a href="https://kachingga.com"><b>kachingga.com</b></a> · <a href="https://app.kachingga.com">Entrar a la app</a> · <a href="https://kachingga.com/privacidad">Privacidad</a> · <a href="mailto:hola@kachingga.com">hola@kachingga.com</a>
+</p>
 
 ### Pensada para Argentina
 
@@ -22,7 +26,7 @@ Cargás quién pagó qué y la app calcula cuánto debe cada uno y cómo quedar 
 | [**kachingga**](https://github.com/kachingga/kachingga) | La app: API (Hono + tRPC + Prisma sobre Bun) y web (React + Vite + Tailwind), en [app.kachingga.com](https://app.kachingga.com) |
 | [**landing**](https://github.com/kachingga/landing) | La página pública, [kachingga.com](https://kachingga.com), hecha con Lovable |
 
-Todo es open source, con licencia GPL-3.0.
+Todo es open source, con licencia AGPL-3.0.
 
 ### Seguridad
 
