@@ -32,4 +32,4 @@ Todo es open source, con licencia AGPL-3.0.
 
 ¿Encontraste una vulnerabilidad? No abras un issue: avisanos por privado (ver [SECURITY.md](https://github.com/kachingga/.github/blob/main/SECURITY.md)).
 
-Hoy es de uso propio del grupo. A futuro, quién sabe. 🚀
+Nació para usarla entre amigos, y hoy cualquiera puede crear su cuenta en [app.kachingga.com](https://app.kachingga.com). 🚀
