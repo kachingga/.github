@@ -30,6 +30,6 @@ Todo es open source, con licencia AGPL-3.0.
 
 ### Seguridad
 
-¿Encontraste una vulnerabilidad? No abras un issue: avisanos por privado (ver [SECURITY.md](https://github.com/kachingga/.github/blob/main/SECURITY.md)).
+¿Encontraste una vulnerabilidad? No abras un issue: avisanos por privado (ver [kachingga.com/seguridad](https://kachingga.com/seguridad)).
 
 Nació para usarla entre amigos, y hoy cualquiera puede crear su cuenta en [app.kachingga.com](https://app.kachingga.com). 🚀
